@@ -4,6 +4,8 @@ import sys
 import os
 from datetime import datetime
 
+# This script was developed by Jordan Webb, NA4WX, using the MIT License. Edit, Share, Enjoy. Just Keep this line here.
+
 # Database files
 USER_DB = "users.txt"
 MESSAGE_DB = "messages.txt"
