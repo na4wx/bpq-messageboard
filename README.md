@@ -1,6 +1,6 @@
 # 📬 BPQ32 Message Board (messageboard.py)
 
-Welcome to **BPQ32 Message Board**, a Python-based application designed to integrate seamlessly with **BPQ32** for hosting a message board system. This script allows users to post, view, and manage messages, along with customizing their profiles directly through a Telnet interface. 🚀
+Welcome to **BPQ32 Message Board**, a Python-based application designed to integrate seamlessly with **BPQ32** or **LinBPQ** for hosting a message board system. This script allows users to post, view, and manage messages, along with customizing their profiles directly through a Telnet interface. 🚀
 
 ---
 
